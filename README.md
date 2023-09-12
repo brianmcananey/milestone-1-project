@@ -1,39 +1,132 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Roker Restaurants
 
-Welcome,
+## Milestone Project 1 - Static Frontend Website
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+/*insert images of website*/
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+* Roker Restaurants is a website designed to entice new customers to the varying restaurants located on Roker beach near Sunderland.
 
-## Codeanywhere Reminders
+* This is my Milestone 1 Project submission for Code Institute's Diploma in Web Application Development. My website will consist of 3 pages and is built using technologies and languages I have learned so far on the course, mainly HTML and CSS.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Live Project
 
-`python3 -m http.server`
+/*insert project url*/
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Repository
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+/*insert github link*/
 
-`http_server`
+# Table of Contents
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Contents
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* [User Experience] (#user-experience)
+  * [User Stories] (#user-stories)
+  * [Business Owners] (#business-owners)
+* [Design] (#design)
+  * [Colour Scheme] (#color-scheme)
+  * [Typography] (#typography)
+  * [Imagery] (#imagery)
+  * [Icons] (#icons)
+* [Structure] (#structure)
+  * [INformation Architecture] (#information-architecture)
+  * [Navigation Bar] (#navbar)
+  * [Buttons] (#buttons)
+  * [Page Headings and Sub Navigations] (#page-headings-and-sub-navigations)
+  * [Footer] (#footer
+* [Wireframes] (#wireframes)
+* [Features](#features)
+  * [Current Features] (#current-features)
+  * [Future Features] (#future-features)
+* [Technologies Used] (#technologies-used)
+  * [Languages Used] (#languages-used)
+  * [Framework Libraries and Programs] (#framework-libraries-and-programs)
+* [Testing] (#testing)
+* [Deployment] (#deployment)
+  * [Github Pages] (#github-pages)
+  * [Forking the Github Repository] (#forking-the-github-repository)
+  * [Making a Local Clone] (#making-a-local-clone)
+* [Credits] (#credits)
+  * [Code] (#code)
+  * [Media] (#media)
+  * [Content] (#content)
+  * [Acknowledgements] (#acknowledgements)
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+# User Experience
 
-To log into the Heroku toolbelt CLI:
+## User Stories
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Prospective Visitors
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+*These are users who are considering or have already planned a trip to one of the restuarants*
 
----
+*As a prospective visitor I would like to see what deals are on offer in each restaurant.
+*As a prospective visitor I would like to see what variaty of food is on offer in each of the restaurants.
+*As a prospective visitor I would like to see what amenities are nearby to the restaurants.
+*As a prospective visitor I would like to be able to contact each restaurant to make reservations.
 
-Happy coding!
+### Business Owners
+
+*These are the owners of the restuarants*
+
+*As a business owner, I want the website to entice new customers into the restaurants.
+*As a business owner, I want the website to be user-friendly and easy to navigate on any device.
+*As a business owner, I want the website to encourage regular visits to the restuarants.
+
+## Design
+
+## Colour Scheme
+
+<!--- Insert image of colour schemes ---!>
+
+<!--- Insert reasoning for choosing colour scheme ---!>
+
+### Typography
+
+<!--- choose font and why ---!>
+
+### Imagery
+
+- Imagery is very important to the website as the site needs to show off the area the restaurants are in and be appealing for people toi come and visit.
+
+- The pages will be consistent with the same large hero image displayed over the contents of each page.
+
+### Icons
+
+- I used icons from Font Awesome to encourage users to click on certain buttons and to add a clear visual indicator of where to click.
+
+## Structure
+### Information Architecture
+- The website has a Homepage, then 2 further pages; a Where to Eat? page and a Contact page.
+    - Homepage - Large hero image with an About section describing the area and purpose of the website.
+    - Where to Eat? - Large hero image with 4 sections for 4 different restaurants advertised on the website. Each section will have a description of each restaurant and a link to the actual restaurant website.
+    - Contact - Large hero image with a contact form which is displayed alomg with a google map of the area for directions.
+
+### Navigation Bar
+- Each page will have the navbar along the top, allowing the user to easily navigate to the different pages.
+- The navbar appears as a horizontal list on desktop and a drop down menu on mobile.
+- I have used Bootstrap Navigation component <!---insert what i have changed and why---!>
+
+<!--- insert image of navbar for desktop ---!>
+<!--- insert image of navbar on mobile ---!>
+
+### Buttons
+- Butttons are consistent in design across the site. The only differnece will be the colour on the Sign Up button.
+- Buttons change colour when hovered over. The button text is legible both in its normal and hover state.
+- I have used Bootstrap Button classes, which I have customised in CSS.
+  <!--- insert image of button normally ---!>
+  <!--- insert image of button changed ---!>
+
+### Page Heading and Sub Navigation
+
+<!--- insert description of headings and sub navs when I have decided ---!>
+
+### Footer
+- The Footer includes the social media links for the website.
+- Social media links open in a new page.
+- The Footer remains consistent on all pages.
+
+<!--- insert images of Footer ---!>
+
+## Wireframes
+  <!--- insert wireframes in pdf format ---!>
