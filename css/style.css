@@ -1,6 +1,6 @@
 
 
-* {
+*{
     margin: 0;
     padding: 0;
     border: 0;
@@ -10,6 +10,8 @@ body {
     font-family: Oswald;
     color: #777777;
 }
+
+/* Navbar */
 
 h2 {
     font-family: Oswald;
@@ -23,8 +25,7 @@ h2 {
     font-size: 280%;
 }
 
-#menu,
-#navbar {
+#menu {
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
@@ -52,4 +53,79 @@ h2 {
 
 .active {
     border-bottom: 1px solid #777777;
+}
+
+/* Hero Image */
+
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url("../assets/images/Full-Pier-Sunset.jpg") no-repeat top center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#hero-outer {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.2);
+    }
+}
+
+
+#cover-text {
+    font-size: 130%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 350px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 15px;
+
+    background-color: rgba(241, 110, 105, .7);
+
+    bottom: 75px;
+    right: 75px;
+
+    position: absolute;
+}
+
+/* Where to Eat? */
+
+#restaurants {
+    height: 800px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: azure;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: darkorange;
 }
