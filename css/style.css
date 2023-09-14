@@ -85,20 +85,21 @@ h2 {
 
 
 #cover-text {
-    font-size: 130%;
+
+    font-size: 120%;
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
 
     width: 350px;
-    height: 200px;
+    height: 250px;
 
     padding-top: 40px;
     padding-left: 15px;
 
     background-color: rgba(241, 110, 105, .7);
 
-    bottom: 75px;
+    bottom: 100px;
     right: 75px;
 
     position: absolute;
@@ -110,22 +111,50 @@ h2 {
     height: 800px;
 }
 
+#welcome {
+    margin: 25px 0;
+    text-align: center;
+    font-size: 250%;
+}
+
 #left-about {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: blue;
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: azure;
 }
 
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: darkorange;
+}
+
+hr {
+    border-top: 1px solid #777777;
+    width: 100% 0;
+}
+
+.left-about-heading{
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 30px;
+}
+
+.right-about-heading {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: left;
 }
