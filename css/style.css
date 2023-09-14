@@ -90,6 +90,7 @@ h2 {
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
+    color: #555555;
 
     width: 350px;
     height: 250px;
@@ -97,7 +98,7 @@ h2 {
     padding-top: 40px;
     padding-left: 15px;
 
-    background-color: rgba(241, 110, 105, .7);
+    background-color: rgba(241, 110, 105, .8);
 
     bottom: 100px;
     right: 75px;
@@ -115,6 +116,10 @@ h2 {
     margin: 25px 0;
     text-align: center;
     font-size: 250%;
+}
+
+a {
+    color:#555555;
 }
 
 #left-about {
@@ -157,4 +162,27 @@ hr {
 
 .right-about-heading h2 {
     text-align: left;
+}
+
+/* Footer */
+
+footer {
+    height: 150px;
+    background-color: #555555;
+}
+
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffffff;
 }
