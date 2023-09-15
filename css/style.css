@@ -164,6 +164,33 @@ hr {
     text-align: left;
 }
 
+/* What is on? */
+
+#times {
+    background-image: url(../assets/images/what-is-on-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#times div {
+    color:#ffffff;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 19%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 6px;
+
+}
+
+#times h2 {
+    color: #ffffff;
+}
+
 /* Footer */
 
 footer {
