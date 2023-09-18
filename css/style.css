@@ -23,6 +23,7 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 #menu {
@@ -146,7 +147,7 @@ hr {
     width: 100% 0;
 }
 
-.left-about-heading{
+.left-about-heading {
     width: 50%;
     float: right;
     line-height: 20px;
@@ -160,6 +161,10 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+}
+
+.left-about-heading h2 {
+    text-align: left;
 }
 
 .right-about-heading h2 {
@@ -181,6 +186,14 @@ hr {
     border-radius: 50%;
     border-style: solid;
     border-width: 1px;
+    background-color:#777777;
+}
+
+#sign-up-text {
+    text-align: center;
+    margin-top: 30%;
+    font-size:larger;
+    color: #ffffff;
 }
 
 
@@ -245,4 +258,73 @@ footer {
 
 #restaurant-view img {
     width: 100%;
+}
+
+/*Responsiveness for Tablets*/
+
+@media screen and (max-width: 1200px ) {
+    #restaurants {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin-top: 0;
+    }
+
+    #left-about, #right-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
+
+/*Resonsiveness for Mobiles*/
+
+@media screen and ( max-width: 943px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #cover-text {
+        right: 0px;
+    }
+
+    #restaurants {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading li, .right-about-heading li {
+        text-align: center;
+        padding: 0 20px 0 20px;
+        list-style-type: none;
+    }
 }
