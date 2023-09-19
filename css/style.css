@@ -321,6 +321,16 @@ footer {
         padding: 0;
     }
 
+    #times div {
+        width: 100%;
+        clear: both;
+        height: 175px;
+        border-style: solid;
+        border-bottom-width: 1px;
+        border-bottom-color: #ffffff;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
@@ -361,4 +371,30 @@ footer {
         padding: 0 20px 0 20px;
         list-style-type: none;
     }
+
 }
+
+/*Form*/
+
+#form-section {
+
+    font-size: 120%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #555555;
+
+    width: 350px;
+    height: 500px;
+
+    padding-top: 40px;
+    padding-left: 15px;
+
+    background-color: rgba(241, 110, 105, .8);
+
+    bottom: 100px;
+    right: 75px;
+
+    position: absolute;
+}
+
