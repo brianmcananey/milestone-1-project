@@ -260,6 +260,40 @@ footer {
     width: 100%;
 }
 
+#events {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 2px;
+}
+
+#events img {
+    width: 100%;
+}    
+
+#wildlife {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 2px;
+}
+
+#wildlife img {
+    width: 100%;
+}
+
+#food {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 2px;
+}
+
+#food img {
+    width: 100%;
+}
+
+
 /*Responsiveness for Tablets*/
 
 @media screen and (max-width: 1200px ) {
