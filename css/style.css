@@ -254,6 +254,7 @@ footer {
     line-height: 0;
     column-count: 4;
     column-gap: 2px;
+    margin-left: 30px;
 }
 
 #restaurant-view img {
@@ -265,6 +266,7 @@ footer {
     line-height: 0;
     column-count: 4;
     column-gap: 2px;
+    margin-left: 30px;
 }
 
 #events img {
@@ -276,6 +278,7 @@ footer {
     line-height: 0;
     column-count: 4;
     column-gap: 2px;
+    margin-left: 30px;
 }
 
 #wildlife img {
@@ -287,6 +290,7 @@ footer {
     line-height: 0;
     column-count: 4;
     column-gap: 2px;
+    margin-left: 30px;
 }
 
 #food img {
