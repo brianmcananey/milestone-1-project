@@ -10,7 +10,7 @@
 
 ## Live Project
 
-/*insert project url*/
+[View the live project here.]()
 
 ## Repository
 
@@ -35,7 +35,7 @@
   * [Page Headings and Sub Navigations] (#page-headings-and-sub-navigations)
   * [Footer] (#footer
 * [Wireframes] (#wireframes)
-* [Features](#features)
+* [Features] (#features)
   * [Current Features] (#current-features)
   * [Future Features] (#future-features)
 * [Technologies Used] (#technologies-used)
@@ -58,16 +58,16 @@
 
 ### Prospective Visitors
 
-*These are users who are considering or have already planned a trip to one of the restuarants*
+#### These are users who are considering or have already planned a trip to one of the restuarants
 
-*As a prospective visitor I would like to see what deals are on offer in each restaurant.
-*As a prospective visitor I would like to see what variaty of food is on offer in each of the restaurants.
-*As a prospective visitor I would like to see what amenities are nearby to the restaurants.
-*As a prospective visitor I would like to be able to contact each restaurant to make reservations.
+As a prospective visitor I would like to see what deals are on offer in each restaurant.
+As a prospective visitor I would like to see what variaty of food is on offer in each of the restaurants.
+As a prospective visitor I would like to see what amenities are nearby to the restaurants.
+As a prospective visitor I would like to be able to contact each restaurant to make reservations.
 
 ### Business Owners
 
-*These are the owners of the restuarants*
+#### These are the owners of the restuarants
 
 *As a business owner, I want the website to entice new customers into the restaurants.
 *As a business owner, I want the website to be user-friendly and easy to navigate on any device.
@@ -77,56 +77,60 @@
 
 ## Colour Scheme
 
-<!--- Insert image of colour schemes ---!>
-
-<!--- Insert reasoning for choosing colour scheme ---!>
+Insert image of colour schemes---!>
+Insert reasoning for choosing colour scheme---!>
 
 ### Typography
 
-<!--- choose font and why ---!>
+choose font and why---!>
 
 ### Imagery
 
-- Imagery is very important to the website as the site needs to show off the area the restaurants are in and be appealing for people toi come and visit.
+* Imagery is very important to the website as the site needs to show off the area the restaurants are in and be appealing for people toi come and visit.
 
-- The pages will be consistent with the same large hero image displayed over the contents of each page.
+* The pages will be consistent with the same large hero image displayed over the contents of each page.
 
 ### Icons
 
-- I used icons from Font Awesome to encourage users to click on certain buttons and to add a clear visual indicator of where to click.
+* I used icons from Font Awesome to encourage users to click on certain buttons and to add a clear visual indicator of where to click.
 
 ## Structure
+
 ### Information Architecture
-- The website has a Homepage, then 2 further pages; a Where to Eat? page and a Contact page.
+
+  *The website has a Homepage, then 2 further pages; a Where to Eat? page and a Contact page.
     - Homepage - Large hero image with an About section describing the area and purpose of the website.
     - Where to Eat? - Large hero image with 4 sections for 4 different restaurants advertised on the website. Each section will have a description of each restaurant and a link to the actual restaurant website.
     - Contact - Large hero image with a contact form which is displayed alomg with a google map of the area for directions.
 
 ### Navigation Bar
-- Each page will have the navbar along the top, allowing the user to easily navigate to the different pages.
-- The navbar appears as a horizontal list on desktop and a drop down menu on mobile.
-- I have used Bootstrap Navigation component <!---insert what i have changed and why---!>
 
-<!--- insert image of navbar for desktop ---!>
-<!--- insert image of navbar on mobile ---!>
+* Each page will have the navbar along the top, allowing the user to easily navigate to the different pages.
+*The navbar appears as a horizontal list on desktop and a drop down menu on mobile.
+
+* I have used Bootstrap Navigation component <!insert what i have changed and why---!>
+
+<!insert image of navbar for desktop ---!>
+<!insert image of navbar on mobile ---!>
 
 ### Buttons
-- Butttons are consistent in design across the site. The only differnece will be the colour on the Sign Up button.
-- Buttons change colour when hovered over. The button text is legible both in its normal and hover state.
-- I have used Bootstrap Button classes, which I have customised in CSS.
-  <!--- insert image of button normally ---!>
-  <!--- insert image of button changed ---!>
+
+* Butttons are consistent in design across the site. The only differnece will be the colour on the Sign Up button.
+* Buttons change colour when hovered over. The button text is legible both in its normal and hover state.
+* I have used Bootstrap Button classes, which I have customised in CSS.
+  <!- insert image of button normally ---!>
+  <!- insert image of button changed ---!>
 
 ### Page Heading and Sub Navigation
 
-<!--- insert description of headings and sub navs when I have decided ---!>
+<!- insert description of headings and sub navs when I have decided ---!>
 
 ### Footer
 - The Footer includes the social media links for the website.
 - Social media links open in a new page.
 - The Footer remains consistent on all pages.
 
-<!--- insert images of Footer ---!>
+<!- insert images of Footer ---!>
 
 ## Wireframes
-  <!--- insert wireframes in pdf format ---!>
+  <!-insert wireframes in pdf format ---!>
