@@ -52,6 +52,11 @@
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
   - [Frameworks Libraries and Programs](#frameworks-libraries-and-programs)
+- [Testing](#testing)
+- [Deployment](#deployment)
+  - [GitHub Pages](#github-pages)
+  - [Forking the GitHub Repository](#forking-the-github-repository)
+  - [Making a Local Clone](#making-a-local-clone)
 
 
 # User Experience
@@ -79,8 +84,11 @@
 
 ## Colour Scheme
 
-Insert image of colour schemes---!>
-Insert reasoning for choosing colour scheme---!>
+<h2 align="left"><img src="assets/README/#555555.png">#555555</h2>
+<h2 align="left"><img src="assets/README/#ffffff.png">#ffffff</h2>
+<h2 align="left"><img src="assets/README/rgb241-110-105.png">rgb(241,110,105)</h2>
+
+I have chosen these colours as I think they give a good contrast to each other. The grey #555555 will be used for the font with the white #ffffff as the background. The purple rgb(241,110,105) wil be used as a back-ground colour for a text box over the top of the hero image.
 
 ### Typography
 
@@ -218,3 +226,59 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 
 - [Google Images](https://www.googleimages.com/)
   - Google Images was used to source imagery for the website.
+
+# Testing
+- Please refer [here](TESTING.md) for more information on testing of the Row Gallery website.
+
+# Deployment
+
+## GitHub Pages
+
+The project was deployed to GitHub Pages using these steps:
+
+1. Log in to GitHub and go to the [GitHub Repository](https://https://github.com/brianmcananey/milestone-1-project)
+2. Locate the Navbar at the top of the Repository (not top of page). Click the Settings tab.
+3. Locate the Navbar on the left hand side of the page. Click the "Pages" section (under 'Code and automation').
+4. Under "Source", click the dropdown called "None" and select "main". Click save.
+5. The page will automatically refresh.
+6. A notification will appear at the top of the page with the [link](https://) to the deployed site. You can return to this GitHub Pages section to access the link.
+
+## Forking the GitHub Repository
+
+Forks are used to propose changes to someone else's project or to use someone else's project as a starting point for your own idea. By forking the GitHub Repository you make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository.
+
+To Fork a Github Repository:
+
+1. Log in to GitHub and go to the [GitHub Repository](https://)
+2. Locate the Fork button in the top-right corner of the page, click Fork.
+3. You should now have a copy of the original repository in your GitHub account.
+
+## Making a Local Clone
+
+You will now have a fork of the repository, but you don't have the files in that repository locally on your computer.
+
+To make a local clone:
+
+1. Log in to GitHub and go to the [GitHub Repository](https://)
+2. Above the list of files, click  Code.
+3. To clone the repository using HTTPS, under "Clone with HTTPS", click the 'Copy' icon. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click the 'Copy' icon. To clone a repository using GitHub CLI, click Use GitHub CLI, then click the 'Copy' icon.
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub AE username instead of YOUR-USERNAME:
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `milestone-project-one`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo) for the GitHub quick start guide with images and more detailed explanations of the above process.
