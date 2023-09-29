@@ -75,7 +75,7 @@
 *These are users who are considering or have already planned a trip to one of the restaurants*
 
  * As a prospective visitor I would like to see what deals are on offer in each restaurant.
- * As a prospective visitor I would like to see what variaty of food is on offer in each of the restaurants.
+ * As a prospective visitor I would like to see what variety of food is on offer in each of the restaurants.
  * As a prospective visitor I would like to see what amenities are nearby to the restaurants.
  * As a prospective visitor I would like to be able to contact each restaurant to make reservations.
 
@@ -86,6 +86,7 @@
  * As a business owner, I want the website to entice new customers into the restaurants.
  * As a business owner, I want the website to be user-friendly and easy to navigate on any device.
  * As a business owner, I want the website to encourage regular visits to the restaurants.
+ * As a business owner, I want the website to encourage visits to my own website to drive sales.
 
 ## Design
 
