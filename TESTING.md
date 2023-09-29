@@ -29,20 +29,20 @@ The Roker Restaurants website has been tested using the following methods:
 The Roker Restaurants website passed all tests using the W3C HTML Validator tool
 
 ### Home Page
-<h2 align="center"><img src="assets/readme/code-validator-html-code-index-page.jpg"></h2>
+<h2 align="center"><img src="assets/README/w3c-passed.png"></h2>
 
 ### Gallery Page
-<h2 align="center"><img src="assets/readme/code-validator-html-code-exhibitions-page.jpg"></h2>
+<h2 align="center"><img src="assets/README/w3c-passed.png"></h2>
 
 ### Sign Up Page
-<h2 align="center"><img src="assets/readme/code-validator-html-code-artists-page.jpg"></h2>
+<h2 align="center"><img src="assets/README/w3c-passed.png"></h2>
 
 
 
 ## W3C CSS Validator
 
 The Roker Restaurant website passed all tests using the W3C CSS Validator tool
-<h2 align="center"><img src="assets/readme/code-validator-css.jpg"></h2>
+<h2 align="center"><img src="assets/README/w3c-css-passed.png"></h2>
 
 # Lighthouse
 
@@ -100,7 +100,6 @@ I also personally tested the website on Samsung Galaxy S22, Samsung Chrome book,
 
 # Testing User Stories
 
-
 ## Prospective Visitors
 
 - As a prospective visitor I would like to see what is currently on offer at the restaurants. 
@@ -133,6 +132,13 @@ It was suggested that I could add additional events/companies onto the page, for
 - The font color was too light so I changed it from #777777 to #555555.
 - I forgot to input a language into the header so changed that by entering English into it (lang="en")
 - The images on the gallery page wouldnt sit properly on mobile devices so I had to change the column count on the page to make them sit better on the device to make the page more appealing to users.
+- When running the W3C Validator it came up with errors which have now been fixed.
+
+<h2 align="center"><img src="assets/README/w3c-errors.png"></h2>
+
+- When running the CSS Validator it came up with this error, which has now been fixed.
+
+<h2 align="center"><img src="assets/README/w3c-css-error.png"></h2>
 
 ## Unresolved
 
