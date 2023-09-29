@@ -2,7 +2,9 @@
 
 ## Milestone Project 1 - Static Frontend Website
 
-/*insert images of website*/
+<h2 align="left"><img src="assets/README/mobile-view.png"></h2> 
+<h2 align="left"><img src="assets/README/desktop-view.png"></h2>
+<h2 align="left"><img src="assets/README/ipad-view.png"></h2>
 
 * Roker Restaurants is a website designed to entice new customers to the varying restaurants located on Roker beach near Sunderland.
 
@@ -84,8 +86,8 @@
 
 ## Colour Scheme
 
-<h2 align="left"><img src="assets/README/#555555.png">#555555</h2>
-<h2 align="left"><img src="assets/README/#ffffff.png">#ffffff</h2>
+<h2 align="left"><img src="assets/README/555555.png">#555555</h2>
+<h2 align="left"><img src="assets/README/ffffff.png">#ffffff</h2>
 <h2 align="left"><img src="assets/README/rgb241-110-105.png">rgb(241,110,105)</h2>
 
 I have chosen these colours as I think they give a good contrast to each other. The grey #555555 will be used for the font with the white #ffffff as the background. The purple rgb(241,110,105) wil be used as a back-ground colour for a text box over the top of the hero image.
