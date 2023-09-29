@@ -144,7 +144,7 @@ a {
 
 hr {
     border-top: 1px solid #555555;
-    width: 100% 0;
+    width: 100%;
 }
 
 .left-about-heading {
@@ -170,32 +170,6 @@ hr {
 .right-about-heading h2 {
     text-align: left;
 }
-
-#circle-container {
-    width: 300px;
-    height: 300px;
-    padding: 30px;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-#sign-up-circle {
-    height: 100%;
-    border-radius: 50%;
-    border-style: solid;
-    border-width: 1px;
-    background-color:rgba(241, 110, 105, 0.673);
-}
-
-#sign-up-text {
-    text-align: center;
-    margin-top: 30%;
-    font-size:larger;
-    color: #ffffff;
-}
-
 
 /* What is on? */
 
