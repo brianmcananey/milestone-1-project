@@ -59,6 +59,11 @@
   - [GitHub Pages](#github-pages)
   - [Forking the GitHub Repository](#forking-the-github-repository)
   - [Making a Local Clone](#making-a-local-clone)
+- [Credits](#credits)
+  - [Code](#code)
+  - [Content](#content)
+  - [Media](#media)
+  - [Acknowledgements](#acknowledgements)
 
 
 # User Experience
@@ -208,11 +213,6 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 - [Figma](https://figma.com/)
   - Balsamiq was used to create Wireframes for the project during the initial planning stage.
 
-- [Techsini](https://techsini.com/multi-mockup/)
-  - Techsini was used to help check responsiveness and take screenshots of the page at different screen sizes.
-
-- [Material Design Colour Tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
-  - Material Design's Colour Tool was used to help decide on the colour palette of the website.
 
 - [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html)
   - Photoshop was used to resize and edit images for the website.
@@ -284,3 +284,37 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 Click [Here](https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo) for the GitHub quick start guide with images and more detailed explanations of the above process.
+
+# Credits
+
+## Code
+
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library was used throughout the project mainly to make site responsive using the Bootstrap Grid System and Flexbox. I sourced code from the Bootstrap documentation when building the Navbar, Carousel, Buttons and Contact Form. 
+
+-   [Code Institute](https://codeinstitute.net/): I referred to lessons and source code from Code Institute's Web Application Development course. I referred to the Love Running project for the design.
+
+## Content
+
+-   I wrote all the content for the website. The restaurants and photographs are all real but placed in a ficticious setting for my milestone project website.
+  
+- I referred to the [GitHub Documenation](https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo) for the basis of the Deployment section of this README file. I also referred to [Code Institute's Sample README](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) for the general structure of this README file.
+
+## Media
+
+-   All Images were sourced from open source websites [Google Images](https://www.googleimages.com/) With special thanks to: 
+- [Tin of Sardines](https://www.tinofsardines.co.uk)
+- [North] (https://dishcult.com)
+- [Six Pier Point](https://www.instagram.com/sixpierpoint/)
+- [Fausto](https://www.instagram.com/fausto.coffee/)
+
+## Acknowledgements
+
+- Thank you to my Mentor Rohit Sharma for helpful feedback, industry insights and recommended tools.
+
+- Thank you to the City of Bristol College for their encouragement and technical support - with special mention to Pasquale Fasulo for his continuous support.
+
+- Thank you to the tutors and staff at Code Institute for their support.
+
+Roker Restaurants is fictitious. This website is purely for the sake of the developer's portfolio and not for public consumption.
+
+Brian McAnaney, 2023.
