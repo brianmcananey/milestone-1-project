@@ -38,7 +38,6 @@ The Roker Restaurants website passed all tests using the W3C HTML Validator tool
 <h2 align="center"><img src="assets/README/w3c-passed.png"></h2>
 
 
-
 ## W3C CSS Validator
 
 The Roker Restaurant website passed all tests using the W3C CSS Validator tool
@@ -58,7 +57,7 @@ I used the Lighthouse reports in Google Developer Tools to examine the pages of 
 - Best Practices 
 - SEO
 
-All Pages performed average (scored 81 and above) in:
+All Pages performed above average (scored 81 and above) in:
 - Performance, Accessibility, Best Practices and SEO on Desktop
 - Accessibility, Best Practices and SEO on Mobile
 
@@ -71,7 +70,7 @@ Lighthouse recommends saving images in next-gen formats and eliminating render-b
 
 All website pages were tested using the A11y Color Contrast Accessibility Checker and no automated colour contrast issues were found.
 
-<h2 align="center"><img src="assets/readme/colour-contrast-check.jpg"></h2>
+<h2 align="center"><img src="assets/README/a11y.png"></h2>
 
 # Browser Compatibility
 
@@ -87,14 +86,12 @@ The font was a little bit hard to see on some devices so i changed the font colo
 
 Responsivity tests were carried out using Google Chrome DevTools. Device screen sizes covered include:
 - iPhone SE
-- iPhone XR
 - iPhone 12 Pro
 - Samsung Galaxy S20 Ultra
 - iPad Air
 - Surface Pro 7
 - Surface Duo
 - Samsung Galaxy A51/71
-- Nest Hub
 
 I also personally tested the website on Samsung Galaxy S22, Samsung Chrome book, Dell XPS 15 laptop and a Dell widescreen monitor.
 
@@ -102,7 +99,7 @@ I also personally tested the website on Samsung Galaxy S22, Samsung Chrome book,
 
 ## Prospective Visitors
 
-- As a prospective visitor I would like to see what is currently on offer at the restaurants. 
+- As a prospective visitor I would like to see what is currently on offer at the restaurants.
 
     * On the Homepage there is a section which shows events on during the week.
     - There is also a link to each restaurant own webpage where they can go into further detail.
@@ -144,7 +141,7 @@ It was suggested that I could add additional events/companies onto the page, for
 
 - Improve Lighthouse Performance score on mobile by making changes including:
     - Serve images in next-gen formats (Image formats like WebP and AVIF often provide better compression than PNG or JPEG, which means faster downloads and less data consumption.)
-    - Eliminate render-blocking resources (Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles)
+    
 
 
 Back to [README.md](/README.md#testing)
