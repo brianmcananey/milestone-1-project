@@ -12,7 +12,7 @@
 
 ## Live Project
 
-[View the live project here.](https://8000-brianmcananey-milestone-4oqf3i1pmd.us2.codeanyapp.com/assets/)
+[View the live project here.](https://brianmcananey.github.io/milestone-1-project/)
 
 ## Repository
 
@@ -50,7 +50,7 @@
     - [Events](#events)
     - [Past/Upcoming Events](#pastupcoming-events)
     - [E-Commerce](#e-commerce)
-    - [Expantion](#expantion)
+    - [Expansion](#expansion)
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
   - [Frameworks Libraries and Programs](#frameworks-libraries-and-programs)
@@ -120,11 +120,11 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
   - Homepage - Large hero image showing a view of the area. It will also show a selection of restuarants in the area with direct links to their own websites which open in seperate tabs. It will also have a section showing what is on in the area and when.
   - Gallery Page - This will show images of different sights of the area, for example, views from the restaurants, local wildlife and upcoming events.
   - Sign Up - Same large hero image as the homepage but will also have a form on to sign up to a newsletter/discount codes.
-* Most pages feature buttons with 'call to actions' and internal links where appropriate, quickly directing them to relevant information on another page. For example, you can access the Sign Up page from the button in the home page. This saves repeating information, and helps keep the website clean and concise.
+* Most pages feature buttons with 'call to actions' and internal links where appropriate, quickly directing them to relevant information on another page. This saves repeating information, and helps keep the website clean and concise.
 
 ### Navigation Bar
 
-* Each page will have the navbar along the top, allowing the user to easily navigate to the different pages. The navbar appears as a horizontal list on desktop, while on mobile the logo/title is above a horizontal navbar list. 
+* Each page will have the navbar along the top, allowing the user to easily navigate to the different pages. The navbar appears as a horizontal list on desktop, while on mobile the logo/title is above a horizontal navbar list.
 * I have also added an underline to the "active" page and when you hover over the other pages.
 
 <h2 align="center"><img src="assets/README/navbar-desktop.png"></h2>
@@ -133,7 +133,6 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 
 ### Buttons
 
-* There are two butttons across the site and they are consistent in design. 
 * Buttons change colour when hovered over. The button text is legible both in its normal and hover state.
 * I have used Bootstrap Button classes.
   <h2 align="center"><img src="assets/README/button.png"></h2>
@@ -179,7 +178,7 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 
 * There could be an online booking service, allowing users to book directly through the site instead of being redirected to the others.
 
-### Expantion
+### Expansion
 
 * The website could evolve from just advitising restuarants to other activities and businesses in the area. From sport, to wildlife excursions and live music.  
 
@@ -197,10 +196,10 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
   - I used bootstrap throughout the site to make it responsive. The website uses Bootstrap's Containers, Grid System and Flexbox and Button classes. I sourced code from the Bootstrap documentation when building the Navbar, Carousel, Buttons and Contact Form, 
   
 - [Google Fonts](https://fonts.google.com/)
-  - Two fonts were imported from google fonts. Josefin Sans for the headings, and Lato for the other text.
+  - The fonts were imported from google fonts. I have used Oswald for the website with sans-serif as the back-up .
   
 - [Font awesome](https://fontawesome.com/)
-  - I used icons from font awesome to visually distinguish sections of the text and on buttons.
+  - I used icons from font awesome to visually distinguish sections of the text and next to links.
 
 - [Git](https://git-scm.com/)
   - Git was used as a version control in the terminal.
@@ -212,17 +211,10 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
   - jQuery came with Bootstrap to make the navbar responsive.
 
 - [Figma](https://figma.com/)
-  - Balsamiq was used to create Wireframes for the project during the initial planning stage.
-
+  - Figma was used to create Wireframes for the project during the initial planning stage.
 
 - [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html)
   - Photoshop was used to resize and edit images for the website.
-
-- [TinyPNG](https://tinypng.com/)
-  - TinyPNG was used to compress images for a faster loading time.
-
-- [WebFormatter](https://webformatter.com/html)
-  - WebFormatter was used to help beautify the code.
 
 - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
   - Google Chrome's Dev Tools were used while building the project to test responsiveness and for debugging.
@@ -290,7 +282,7 @@ Click [Here](https://docs.github.com/en/github-ae@latest/get-started/quickstart/
 
 ## Code
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library was used throughout the project mainly to make site responsive using the Bootstrap Grid System and Flexbox. I sourced code from the Bootstrap documentation when building the Navbar, Carousel, Buttons and Contact Form. 
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library was used throughout the project mainly to make site responsive using the Bootstrap Grid System and Flexbox.
 
 -   [Code Institute](https://codeinstitute.net/): I referred to lessons and source code from Code Institute's Web Application Development course. I referred to the Love Running project for the design.
 
