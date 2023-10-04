@@ -147,7 +147,11 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 
 ## Wireframes
 
-  <h2 align="center"><img src="assets/README/wireframe-desktop.png"></h2>
+ * I chose to use the Love Running challenge on the course as a template as I think it helps with the flow I wanted with my website.
+ * The hompepage uses a large hero image which helps to show the area the restaurants are in. It also shows a selection of restaurants which have direct links to the websites of said restaurants. At the base of the page, above the footer, I can show what events are coming up throughout the week.
+ * The galley page is also relevent as it shows what can be seen in the area. This could also be expanded into a full page with links to websites of different companies as the Roker Restaurants website expands.
+  
+<h2 align="center"><img src="assets/README/wireframe-desktop.png"></h2>
 <h2 align="center"><img src="assets/README/wireframe-mobile.png"></h2>
 
 # Features
