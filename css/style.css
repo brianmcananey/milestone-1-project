@@ -61,7 +61,7 @@ h2 {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url("../assets/images/Full-Pier-Sunset.jpg") no-repeat top center;
+    background: url("../images/Full-Pier-Sunset.jpg") no-repeat top center;
 
     animation-name: hero-zoom;
     animation-duration: 5s;
