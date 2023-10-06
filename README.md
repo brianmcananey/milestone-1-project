@@ -184,7 +184,7 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 
 ### Expansion
 
-* The website could evolve from just advitising restuarants to other activities and businesses in the area. From sport, to wildlife excursions and live music.  
+* The website could evolve from just advitising restaurants to other activities and businesses in the area. From sport, to wildlife excursions and live music.  
 
 # Technologies Used
 
@@ -197,7 +197,7 @@ I have chose the "Oswald" font as I believe it suits the layout of the website a
 ## Frameworks Libraries and Programs
 
 - [Bootstrap 4](https://getbootstrap.com/) 
-  - I used bootstrap throughout the site to make it responsive. The website uses Bootstrap's Containers, Grid System and Flexbox and Button classes. I sourced code from the Bootstrap documentation when building the Navbar, Carousel, Buttons and Contact Form, 
+  - I used bootstrap throughout the site to make it responsive. The website uses Bootstrap's Containers, Grid System and Flexbox and Button classes. I sourced code from the Bootstrap documentation when building the Navbar, Button and Contact Form, 
   
 - [Google Fonts](https://fonts.google.com/)
   - The fonts were imported from google fonts. I have used Oswald for the website with sans-serif as the back-up .
@@ -300,7 +300,7 @@ Click [Here](https://docs.github.com/en/github-ae@latest/get-started/quickstart/
 
 -   All Images were sourced from open source websites [Google Images](https://www.googleimages.com/) With special thanks to: 
 - [Tin of Sardines](https://www.tinofsardines.co.uk)
-- [North] (https://dishcult.com)
+- [North] (https://www.dishcult.com)
 - [Six Pier Point](https://www.instagram.com/sixpierpoint/)
 - [Fausto](https://www.instagram.com/fausto.coffee/)
 
