@@ -174,7 +174,7 @@ hr {
 /* What is on? */
 
 #times {
-    background-image: url(/assets/images/what-is-on-image.jpg);
+    background-image: url(../assets/images/what-is-on-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
