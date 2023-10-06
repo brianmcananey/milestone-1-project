@@ -61,7 +61,7 @@ All Pages performed above average (scored 81 and above) in:
 - Performance, Accessibility, Best Practices and SEO on Desktop
 - Accessibility, Best Practices and SEO on Mobile
 
-Some Pages did not perform as well (scored 62 and above) in:
+Some Pages did not perform as well (scored 67 and above) in:
 - Performance on mobile
 
 Lighthouse recommends saving images in next-gen formats and eliminating render-blocking resources to improve performance on mobile. (Detailed in [Unresolved Bugs](#unresolved) section)
@@ -102,7 +102,7 @@ I also personally tested the website on Samsung Galaxy S22, Samsung Chrome book,
 - As a prospective visitor I would like to see what is currently on offer at the restaurants.
 
     * On the Homepage there is a section which shows events on during the week.
-    - There is also a link to each restaurant own webpage where they can go into further detail.
+    - There is also a link to each restaurants own webpage where they can go into further detail.
     - On the Homepage page there are the names, descriptions and dates of latest events.
 
 
@@ -120,7 +120,7 @@ I also personally tested the website on Samsung Galaxy S22, Samsung Chrome book,
 
 I asked a number of friends both inside and outside of the Code Institute community for feedback on my project. The feedback on the website and documentation was positive.
 
-It was suggested that I could add additional events/companies onto the page, for example, advertising sports or wildlife excursion. I decided not to add these as it felt like too late in the project, but I did add it into my README.md as a possible future features.
+It was suggested that I could add additional events/companies onto the page, for example, advertising sports or wildlife excursions. I decided not to add these as it felt like too late in the project, but I did add it into my README.md as a possible future feature.
 
 # Bugs
 
@@ -136,6 +136,8 @@ It was suggested that I could add additional events/companies onto the page, for
 - When running the CSS Validator it came up with this error, which has now been fixed.
 
 <h2 align="center"><img src="assets/README/w3c-css-error.png"></h2>
+
+- When I deployed my project on github the layout of the website was totally different, I realised that the file paths in each page, that were linked to my style.css page, were wrong. These paths were absolute, so I changed them to relative, for example, assets/images/picture.png and the website viewed the same as it did locally on codeanywhere.
 
 ## Unresolved
 
